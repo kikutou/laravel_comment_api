@@ -14,4 +14,6 @@ interface SiteServiceInterface
 
     public function register($site_name, $site_url, $password);
 
+    public function validate_register_data(Array $data);
+
 }

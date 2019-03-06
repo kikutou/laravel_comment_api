@@ -13,6 +13,6 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+Route::post('/site/register', "Api\SiteController@register");
+Route::post('/comment/add', "Api\CommentController@add_comment");
+Route::post('/comments', "Api\CommentController@get_comments");

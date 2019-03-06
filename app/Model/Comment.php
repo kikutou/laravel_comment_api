@@ -23,9 +23,9 @@ class Comment extends Model
 
         $comment = new Comment();
         $comment->topic_id = $topic->id;
-        $comment->title = $comment_info["title"];
-        $comment->content = $comment_info["content"];
-        $comment->user_code = $comment_info["user_code"];
+        $comment->title = $comment_info["title"] ?? null;
+        $comment->content = $comment_info["content"] ?? null;
+        $comment->user_code = $comment_info["user_code"] ?? null;
         $comment->save();
         return $comment;
 
