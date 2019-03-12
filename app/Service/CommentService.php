@@ -16,7 +16,7 @@ use App\Model\Topic;
 
 class CommentService implements CommentServiceInterface
 {
-    public function add_comment($site_code, $password, Array $topic, Array $comment, Array $items)
+    public function add_comment($site_code, $password, Array $topic, Array $comment, Array $items = null)
     {
 
         $site_service = new SiteService();
@@ -30,12 +30,16 @@ class CommentService implements CommentServiceInterface
 
         $comment = Comment::add_comment($topic, $comment);
 
-        foreach ($items as $item_info) {
-            $item = Item::add_item($site, $item_info);
+        if($items) {
+            foreach ($items as $item_info) {
+                $item = Item::add_item($site, $item_info);
 
-            $grade = Grade::add_grade($item, $comment, $item_info["grade"]);
+                $grade = Grade::add_grade($item, $comment, $item_info["grade"]);
 
+            }
         }
+
+
 
         return $comment;
 
@@ -79,33 +83,35 @@ class CommentService implements CommentServiceInterface
 
 
         // itemsが必須
-        if(
-            !isset($data["items"])
-            || !is_array($data["items"])
-        ) {
-            return false;
-        }
-
-        // 各itemをチェックする。
-        foreach ($data["items"] as $item) {
-            if(!is_array($item)) {
-                return false;
-            }
-
-            // itemsのitem_codeとtitle少なくても１つが必須
+        if(isset($data["items"])) {
             if(
-                !isset($item["item_code"])
-                && !!isset($item["title"])
+                !is_array($data["items"])
             ) {
                 return false;
             }
 
-            if(!isset($item["grade"])) {
-                return false;
+            // 各itemをチェックする。
+            foreach ($data["items"] as $item) {
+                if(!is_array($item)) {
+                    return false;
+                }
+
+                // itemsのitem_codeとtitle少なくても１つが必須
+                if(
+                    !isset($item["item_code"])
+                    && !!isset($item["title"])
+                ) {
+                    return false;
+                }
+
+                if(!isset($item["grade"])) {
+                    return false;
+                }
+
+
             }
-
-
         }
+
 
         return true;
     }

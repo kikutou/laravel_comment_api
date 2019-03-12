@@ -17,7 +17,7 @@ class CommentController extends Controller
 
 
         if($service->validate_add_comment_request($data)) {
-            $comment = $service->add_comment($data["site_code"], $data["password"], $data["topic"], $data["comment"], $data["items"]);
+            $comment = $service->add_comment($data["site_code"], $data["password"], $data["topic"], $data["comment"], $data["items"] ?? null);
             if($comment) {
                 return $comment;
             } else {
