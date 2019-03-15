@@ -45,4 +45,22 @@ class SiteService implements SiteServiceInterface
         return $result;
 
     }
+
+    public function validate_register_data(Array $data)
+    {
+        if(
+            !isset($data["site_name"])
+            || !isset($data["site_url"])
+            || !isset($data["password"])
+        ) {
+            return false;
+        }
+
+        $site = Site::query()->where("url", $data["site_url"])->first();
+        if($site) {
+            return false;
+        }
+
+        return true;
+    }
 }
