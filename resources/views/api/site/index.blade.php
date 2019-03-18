@@ -19,11 +19,26 @@
                 <tr class="text-white">
                   <th scope="col">name</th>
                   <th scope="col">URL</th>
-                  <th scope="col">password</th>
-                  <th scope="col">site_code</th>
+                  <th scope="col">操作</th>
                 </tr>
               </thead>
-
+              <tbody>
+                @foreach($sites as $site)
+                <tr>
+                  <th scope="row">{{ $site->name }}</a>
+                  </th>
+                  <td>{{ $site->url }}</td>
+                  <td>
+                    <form action="{{ route('post_delete_sites')}}" method="post">
+                      @csrf
+                      <input type="hidden" name="site_id" value="{{ $site->id }}">
+                      <input type="hidden" name="delete" value="delete">
+                      <input type="submit" class="btn btn_primary" value="削除">
+                      <input type="submit" class="btn btn_primary" value="編集">
+                    </form>
+                </tr>
+                @endforeach
+              </tbody>
             </table>
           </div>
         </div>
