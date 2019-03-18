@@ -39,30 +39,24 @@ class SiteController extends Controller
       $message = '新規作成が完了となりました。';
       return redirect()->back()->with(["message" => $message]);
     }
+
   }
 
-  public function show_delete_site(Request $request){
-    return view('api.site.delete');
-  }
 
   public function delete(Request $request)
     {
       if($request->isMethod("POST")) {
-        $site_id = Site::where('id',$id)->get();
-        $site = Site::where('id',$request->delete_site)->first();
-        return view('api.site.delete',['delete_site' => $site,'site_id'=>$site_id]);
-      }else{
-          $site = Site::find($request->site_id);
+        $site = Site::find($request->site_id);
         if($site){
           $site->delete();
-          return redirect(route("get_show_sites"));
         }
+        return redirect(route("get_show_sites"));
       }
     }
 
+  public function edit(Request $request){
+    return view('api.site.edit');
+  }
 
 
-
-
-
-    }
+}

@@ -4,6 +4,17 @@
 
 
 @section("content")
+<script type="text/javascript">
+  function clear1()
+  {
+   if(confirm("削除をしますか？"))
+   {
+   return true;
+ }else {
+   return false;
+ }
+  }
+</script>
 
 <div class="main-content-inner">
 
@@ -32,10 +43,10 @@
                     <form action="{{ route('post_delete_sites')}}" method="post">
                       @csrf
                       <input type="hidden" name="site_id" value="{{ $site->id }}">
-                      <input type="hidden" name="delete" value="delete">
-                      <input type="submit" class="btn btn_primary" value="削除">
                       <input type="submit" class="btn btn_primary" value="編集">
+                      <input onclick="return clear1()" type="submit" class="btn btn_primary" value="削除">
                     </form>
+                  </td>
                 </tr>
                 @endforeach
               </tbody>
