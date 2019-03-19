@@ -2,8 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997adad7-48f6-4b01-af65-5604ee8c222b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/default-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/metisMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/slicknav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/author/author-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/author/author-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/author/author-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/author/author-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/author/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg/singin-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/post-thumb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/post-thumb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card/card-img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/trends-down-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/trends-up-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/triangle-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon/market-value/triangle-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/media/media1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/media/media2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/team-author1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/team-author2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/team-author3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/team-author4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/team-author5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bar-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.slimscroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/line-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/maps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/vendor/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel_comment_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel_comment_api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,26 +96,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CommentController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php">
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="3">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="79" column="29" lean-forward="true" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
               <folding>
-                <element signature="e#44#75#0#PHP" expanded="true" />
+                <element signature="e#41#60#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentService.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Service/CommentService.php">
+      <file leaf-file-name="Dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Controllers/Dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="107" column="33" selection-start-line="107" selection-start-column="33" selection-end-line="107" selection-end-column="33" />
-              <folding>
-                <element signature="e#115#137#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1257">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Admin/bootstrap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Admin/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Controllers/AuthController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="131" column="78" selection-start-line="131" selection-start-column="70" selection-end-line="131" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -53,6 +174,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>memp</find>
+      <find>Dashboard</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,7 +187,6 @@
         <option value="$PROJECT_DIR$/database/migrations/2019_03_05_023308_remove_site_id_field_from_comments_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_03_05_023508_remove_site_id_field_from_grades_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_03_05_023545_remove_topic_id_field_from_grades_table.php" />
-        <option value="$PROJECT_DIR$/app/Model/Site.php" />
         <option value="$PROJECT_DIR$/tests/Unit/SiteServiceTest.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_03_05_044839_change_note_and_memo_fields_to_nullable_to_topics_table.php" />
         <option value="$PROJECT_DIR$/tests/Unit/Model/TopicTest.php" />
@@ -96,6 +217,13 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/app/Service/CommentService.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/config/admin.php" />
+        <option value="$PROJECT_DIR$/app/Model/Site.php" />
+        <option value="$PROJECT_DIR$/app/Admin/routes.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/config/filesystems.php" />
       </list>
     </option>
   </component>
@@ -114,7 +242,6 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
-      <path value="$PROJECT_DIR$/public/phpmyadmin/package.json" />
     </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -198,6 +325,8 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
       <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
       <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
@@ -226,13 +355,55 @@
             <path>
               <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="phpmyadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="encore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="encore" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="encore" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="encore" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
@@ -258,12 +429,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/phpmyadmin" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -291,25 +464,24 @@
       <updated>1551752627357</updated>
       <workItem from="1551752628626" duration="29874000" />
       <workItem from="1552038579112" duration="5916000" />
-      <workItem from="1552899127102" duration="1198000" />
+      <workItem from="1552899127102" duration="4275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36988000" />
+    <option name="totallyTimeSpent" value="40065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1440" height="825" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32967034" />
-      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.35407725" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.14377682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -344,50 +516,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#44#75#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Service/CommentService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="107" column="33" selection-start-line="107" selection-start-column="33" selection-end-line="107" selection-end-column="33" />
-          <folding>
-            <element signature="e#115#137#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Service/CommentServiceInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#44#75#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -423,13 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
           <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/Site.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -575,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Service/CommentServiceInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -610,10 +724,131 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="e#44#75#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/api/site/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/vendor/jquery-2.2.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="282" lean-forward="true" selection-start-line="5" selection-start-column="282" selection-end-line="5" selection-end-column="282" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/filesystems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="131" column="78" selection-start-line="131" selection-start-column="70" selection-end-line="131" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="79" column="29" lean-forward="true" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+          <folding>
+            <element signature="e#41#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Controllers/Dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1257">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
