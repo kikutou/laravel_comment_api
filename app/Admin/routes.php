@@ -11,6 +11,10 @@ Route::group([
 ], function (Router $router) {
 
     $router->get('/', 'HomeController@index');
+<<<<<<< HEAD
+
+});
+=======
     $router->resource('sites', SiteController::class);
     $router->resource('topics', TopicController::class);
     $router->resource('items', ItemController::class);
@@ -20,3 +24,4 @@ Route::group([
 });
 
 
+>>>>>>> d5be1faefaa45c87249b11be9e3137e99105359a
