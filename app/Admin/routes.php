@@ -12,6 +12,10 @@ Route::group([
 
     $router->get('/', 'HomeController@index');
     $router->resource('sites', SiteController::class);
+    $router->resource('topics', TopicController::class);
+    $router->resource('items', ItemController::class);
+    $router->resource('comments', CommentController::class);
+    $router->resource('grades', GradeController::class);
 
 });
 

@@ -3,11 +3,14 @@
 namespace App\Model;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Support\Str;
 
 class Topic extends Model
 {
     protected $table = "topics";
+
+    use SoftDeletes;
 
     public function site()
     {

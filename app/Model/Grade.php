@@ -3,11 +3,14 @@
 namespace App\Model;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\SoftDeletes;
 use phpDocumentor\Reflection\Types\Integer;
 
 class Grade extends Model
 {
     protected $table = "grades";
+
+    use SoftDeletes;
 
     public function comment()
     {
