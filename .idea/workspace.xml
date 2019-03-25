@@ -4,136 +4,8 @@
     <list default="true" id="997adad7-48f6-4b01-af65-5604ee8c222b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Admin/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Admin/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CommentController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/GradeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ItemController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TopicController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Comment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Grade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Grade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Item.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Site.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Topic.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Topic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/default-css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/metisMenu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/slicknav.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/themify-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/typography.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/themify.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/themify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/themify.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/themify.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/author/author-img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/author/author-img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/author/author-img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/author/author-img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/author/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bg/singin-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blog/post-thumb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blog/post-thumb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/card-img9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/icon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/icon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/icon3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/icon4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/trends-down-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/trends-up-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/triangle-down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon/market-value/triangle-up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/media/media1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/media/media2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-author1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-author2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-author3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-author4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-author5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bar-chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.slicknav.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.slimscroll.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/line-chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/maps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/metisMenu.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/pie-chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/vendor/jquery-2.2.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/vendor/modernizr-2.8.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/airport/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/airport/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/airport/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/airport/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/brand/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/brand/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/brand/detail.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/brand/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/brand/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/category/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/category/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/category/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/category/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/city/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/city/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/comment/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/comment/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/comment/detail.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/comment/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/comment/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/country/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/country/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/country/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/country/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/dashboard/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/flight/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/flight/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/flight/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/detail.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/user/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/user/delete.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/user/detail.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/user/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/user/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/api/site/add.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/api/site/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/api/site/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/admin.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -150,35 +22,26 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Admin/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="210">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="packages.php" pinned="true" current-in-tab="true">
-        <entry file="remoteDeploymentFS://&lt;e409ccce-734e-4271-ab11-07b7818583d1&gt;/comments-api.com/bootstrap/cache/packages.php">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RouteServiceProvider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="-4257">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -196,8 +59,9 @@
     <findStrings>
       <find>memp</find>
       <find>Dashboard</find>
-      <find>AdminServiceProvider</find>
       <find>encore/laravel-admin</find>
+      <find>AdminServiceProvider</find>
+      <find>&lt;&lt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -236,7 +100,6 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Api/CommentController.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/config/admin.php" />
         <option value="$PROJECT_DIR$/app/Admin/Controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/config/filesystems.php" />
         <option value="$PROJECT_DIR$/app/Model/Site.php" />
@@ -244,11 +107,12 @@
         <option value="$PROJECT_DIR$/app/Model/Item.php" />
         <option value="$PROJECT_DIR$/app/Model/Grade.php" />
         <option value="$PROJECT_DIR$/app/Model/Comment.php" />
-        <option value="$PROJECT_DIR$/app/Admin/routes.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="&lt;e409ccce-734e-4271-ab11-07b7818583d1&gt;/comments-api.com/routes/api.php" />
         <option value="&lt;e409ccce-734e-4271-ab11-07b7818583d1&gt;/comments-api.com/public/index.php" />
         <option value="&lt;e409ccce-734e-4271-ab11-07b7818583d1&gt;/comments-api.com/public/.htaccess" />
+        <option value="$PROJECT_DIR$/app/Admin/routes.php" />
+        <option value="$PROJECT_DIR$/config/admin.php" />
       </list>
     </option>
   </component>
@@ -352,9 +216,11 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
       <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
       <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
@@ -375,29 +241,12 @@
             <path>
               <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel_comment_api" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="composer" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="laravel_comment_api" type="b2602c69:ProjectViewProjectNode" />
@@ -458,26 +307,25 @@
       <updated>1551752627357</updated>
       <workItem from="1551752628626" duration="29874000" />
       <workItem from="1552038579112" duration="5916000" />
-      <workItem from="1552899127102" duration="8502000" />
+      <workItem from="1552899127102" duration="8818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44292000" />
+    <option name="totallyTimeSpent" value="44608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1440" height="825" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="24" width="1440" height="825" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" order="7" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="File Transfer" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.26323318" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
@@ -742,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Admin/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -818,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -858,8 +692,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Admin/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="210">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4257">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
